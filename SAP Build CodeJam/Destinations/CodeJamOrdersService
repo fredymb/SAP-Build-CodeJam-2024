@@ -1,0 +1,13 @@
+#
+#Tue Aug 27 15:53:11 UTC 2024
+Type=HTTP
+HTML5.DynamicDestination=true
+Authentication=NoAuthentication
+Name=CodeJamOrdersService
+WebIDEEnabled=true
+sap.processautomation.enabled=true
+URL=https\://orderscapapp.cfapps.eu10.hana.ondemand.com/service/OrderManagement
+sap.build.usage=odata_gen
+ProxyType=Internet
+Appgyver.Enabled=true
+sap.applicationdevelopment.actions.enabled=true

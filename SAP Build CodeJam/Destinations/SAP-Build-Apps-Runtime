@@ -1,0 +1,9 @@
+#
+#Tue Aug 27 15:53:22 UTC 2024
+Name=SAP-Build-Apps-Runtime
+URL=https\://83a01208trial.cr1.us10.apps.build.cloud.sap
+ProxyType=Internet
+Type=HTTP
+Authentication=NoAuthentication
+Description=[Do not delete it or change the name] SAP Build Apps Runtime
+HTML5.ForwardAuthToken=true

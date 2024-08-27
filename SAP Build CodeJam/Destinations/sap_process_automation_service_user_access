@@ -1,0 +1,14 @@
+#clientSecret=<< Existing password/certificate removed on export >>
+#
+#Tue Aug 27 15:53:20 UTC 2024
+Type=HTTP
+clientId=sb-490b4ee4-c920-4acb-a5f7-d2650b2cda4a\!b317330|xsuaa\!b49390
+HTML5.DynamicDestination=true
+Authentication=OAuth2JWTBearer
+Name=sap_process_automation_service_user_access
+MobileEnabled=true
+tokenServiceURL=https\://83a01208trial.authentication.us10.hana.ondemand.com/oauth/token
+URL=https\://spa-api-gateway-bpi-us-prod.cfapps.us10.hana.ondemand.com
+ProxyType=Internet
+tokenServiceURLType=Dedicated
+AppgyverEnabled=true

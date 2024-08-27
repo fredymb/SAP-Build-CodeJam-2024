@@ -1,0 +1,14 @@
+#
+#Tue Aug 27 15:53:18 UTC 2024
+Type=HTTP
+HTML5.DynamicDestination=true
+Authentication=NoAuthentication
+Name=S4HANA-Hub-Public
+WebIDEEnabled=true
+URL.headers.APIKey=d6Z3NAgSvGrNSRvbcouTTosYxhKWlwpj
+sap.processautomation.enabled=true
+URL=https\://sandbox.api.sap.com/s4hanacloud/sap/opu/odata/sap/API_BUSINESS_PARTNER
+ProxyType=Internet
+sap.build.usage=odata_gen
+AppgyverEnabled=true
+sap.applicationdevelopment.actions.enabled=true
